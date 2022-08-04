@@ -71,7 +71,7 @@ export default function Checkout() {
       >
         <Toolbar>
           <Typography variant="h6" color="inherit" noWrap>
-            Fiber Light Media
+            <img src='https://www.thekrogerco.com/wp-content/uploads/2021/09/FreshCart_Kroger_Lockup_-300x112.png'/>
           </Typography>
         </Toolbar>
       </AppBar>
